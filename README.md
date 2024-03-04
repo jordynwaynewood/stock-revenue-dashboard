@@ -1,2 +1,2 @@
 # stock-revenue-dashboard
-A repository dedicated to analyzing historical stock and revenue data, along with building a dynamic dashboard for visualizing insights and trends.
+For this project, I’ll take on the role of a Data Scientist / Data Analyst at a startp investment firm. The goal is to guide clients in making informed investment decisions in the stock market. My responsibilities involve extracting financial data—such as historical share prices and quarterly revenue reports—from diverse sources using Python libraries and web scraping techniques.
